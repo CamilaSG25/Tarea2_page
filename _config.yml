@@ -7,8 +7,8 @@ plugins:
   - jekyll-remote-theme
 
 lang: es
-url: "https://camilasg25.github.io/Tarea2_page/"
-baseurl: "Tarea2_page"
+url: "https://camilasg25.github.io/"
+baseurl: "/Tarea2_page"
 
 just_the_docs:
   # incluir CSS adicional
