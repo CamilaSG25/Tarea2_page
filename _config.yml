@@ -7,8 +7,8 @@ plugins:
   - jekyll-remote-theme
 
 lang: es
-url: "https://hubergiron.github.io/"
-baseurl: "/portafolio-just-the-docs"
+url: "https://camilasg25.github.io/Tarea2_page/"
+baseurl: "/Tarea2_page"
 
 just_the_docs:
   # incluir CSS adicional
@@ -22,7 +22,7 @@ search:
 
 aux_links:
   "Repositorio en GitHub":
-    - "https://github.com/HuberGiron/portafolio-just-the-docs"
+    - "https://github.com/CamilaSG25/Tarea2_page"
 
 # Enlaces
 permalink: pretty
